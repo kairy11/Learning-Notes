@@ -1,4 +1,7 @@
-# Git and Github
+#Learning Notes
+Daily notes for what I'm learning.
+
+## Git and Github
 Learning command lines for git in the terminal
 - git init: Creates a new repo
 - git status: inspects the content of the working directory and staging area
