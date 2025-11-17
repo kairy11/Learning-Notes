@@ -12,3 +12,18 @@ Learning command lines for git in the terminal
 - git checkout HEAD filename: Discards changes in the working directory
 - git reset HEAD filename: Unstage file changes in the staging area
 - git reset commit-SHA: Resets to a previous commit in your commit history
+
+## 20251115 — Mixed Messages Project
+
+### Lessons Learned
+- Improved understanding of DOM manipulation
+- Practiced looping through arrays and objects
+- Learned how to structure JS functions
+
+### Challenges
+- Confused by open-ended project instructions
+
+### Solutions
+- Broke problems into smaller steps
+- Used console.log to debug output and confirm logic
+- Followed step by step plan before implementing
