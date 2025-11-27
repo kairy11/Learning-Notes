@@ -27,3 +27,8 @@ Learning command lines for git in the terminal
 - Broke problems into smaller steps
 - Used console.log to debug output and confirm logic
 - Followed step by step plan before implementing
+
+## 20251126 - Building interactive websites
+- DOM: Document Object Model
+- Selectors used to day are querySelector(), getElementId(), getElementsByClassName(), getElementsByTagName().
+- At first I was confused about what I was doing like the big picture. It clicked for me when I started to modify, create, and delete things.
