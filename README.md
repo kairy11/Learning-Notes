@@ -30,9 +30,10 @@ Learning command lines for git in the terminal
 
 ## 20251126 - Building interactive websites
 - DOM: Document Object Model
-- Selectors used to day are querySelector(), getElementId(), getElementsByClassName(), getElementsByTagName().
+- Selectors used today are querySelector(), getElementId(), getElementsByClassName(), getElementsByTagName().
 - At first I was confused about what I was doing like the big picture. It clicked for me when I started to modify, create, and delete things.
 
 ## 20251129 - DOM Events with Java
 - addEventListener() = Listens for a specific event and executes a block of code.
 - learned about onevent properties.
+- Learned about .target and how to use it in tandem with event
